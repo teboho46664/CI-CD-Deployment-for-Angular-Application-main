@@ -1,0 +1,52 @@
+[
+  {
+    "productId": 1,
+    "productName": "Electric Drill",
+    "productCode": "PDW-0023",
+    "releaseDate": "July 2023",
+    "description": "Green 1500W Power drill with 1m cable",
+    "price": 823.45,
+    "starRating": 3.2,
+    "imageUrl": "assets/images/Drill.jpg"
+  },
+  {
+    "productId": 2,
+    "productName": "Grass Trimmer",
+    "productCode": "ZHV-718",
+    "releaseDate": "August 18, 2023",
+    "description": "Red Rhino grass trimmer 2100W",
+    "price": 1878.99,
+    "starRating": 4.2,
+    "imageUrl": "assets/images/Grass Trimmer.jpg"
+  },
+  {
+    "productId": 5,
+    "productName": "Grinder",
+    "productCode": "TXz-0098",
+    "releaseDate": "Dec 21, 2022",
+    "description": "Angle Electric Grinder 1000W ",
+    "price": 899.9,
+    "starRating": 4.8,
+    "imageUrl": "assets/images/Grinder.jpg"
+  },
+  {
+    "productId": 9,
+    "productName": "Mini Garden Set",
+    "productCode": "ZZu-0212",
+    "releaseDate": "Jan 15, 2022",
+    "description": "Garden set ",
+    "price": 215.55,
+    "starRating": 5,
+    "imageUrl": "assets/images/Mini Garden Set.jpg"
+  },
+  {
+    "productId": 10,
+    "productName": "Portable Welding Machine",
+    "productCode": "GMG-0042",
+    "releaseDate": "October 15, 2020",
+    "description": "Standard two-button video game controller",
+    "price": 1135.95,
+    "starRating": 3.6,
+    "imageUrl": "assets/images/Welding machine.jpg"
+  }
+]
